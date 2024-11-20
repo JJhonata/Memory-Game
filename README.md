@@ -1,4 +1,5 @@
 # 🧠🎮 Jogo da Memória
+![memory game](https://github.com/user-attachments/assets/ca24bc79-0c85-48fb-a52c-fe592c02911f)
 
 Este é um simples e divertido **Jogo da Memória** desenvolvido como parte de um desafio da **Digital Innovation One (DIO)**! 🚀
 
